@@ -84,7 +84,7 @@ li {
       }
 
 .signin button:active {
-    border-top:3px solid #256ae2;
+    border-top:2px solid #256ae2;
     background-color: rgb(60, 122, 228);
     box-shadow: none;
 }
